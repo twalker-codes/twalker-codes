@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <hr>
-Tom Walker, a senior software developer with 15+ years of helping companies deliver SaaS products to market.   My primary focus has been on mentoring developers to enhance their coding skills, particularly within the .NET stack. 
+Tom Walker, a senior .NET developer with 15 years of experience building mobile and web applications that power SaaS products. I love mentoring developers, helping them level up their coding skills, especially in the .NET ecosystem. Also, if you're a Star Wars fan, we’re already on the same team! :rocket:
 
 ---
 
