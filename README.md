@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <hr>
-I am a senior software developer with 15+ years of helping companies deliver SaaS products to market.  During that time at Guestlogix, I was successfully established a development and build pipeline process which enabled the company to delivery to WestJet. My primary focus has been on mentoring developers to enhance their coding skills, particularly within the .NET stack. As highlighted in my resume, I have a proven track record of modernizing legacy SaaS applications. 
+I am a senior software developer with 15+ years of helping companies deliver SaaS products to market.   My primary focus has been on mentoring developers to enhance their coding skills, particularly within the .NET stack. 
 ---
 
 - 🌱 I’m currently learning Angular and PHP.
