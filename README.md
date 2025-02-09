@@ -7,15 +7,10 @@ I am a senior software developer with 15+ years of helping companies deliver Saa
 - 🌱 I’m currently learning Angular and PHP.
 - 💬  Ask Me About:
 - 📱 **Mobile App Development** – Swift, Kotlin, .NET MAUI, Xamarin  
-- 🔄 **Cross-Platform Development** – Migrating apps from Xamarin to .NET MAUI  
-- 🌐 **Web Development** – ASP.NET MVC, Vue.js, Angular  
+- 🌐 **Web Development** – ASP.NET Core MVC, ASP.NET Core Minimal Web API
 - 🗄️ **Database Management** – SQL Server, MySQL, Entity Framework  
-- ☁️ **Cloud Services** – AWS, Azure  
-- 🛠️ **DevOps & CI/CD** – Azure DevOps, GitHub Actions, Build Pipelines  
 - 🎓 **Mentoring & Team Leadership** – Training junior developers  
-- 💳 **Payment Systems & POS Apps** – iOS credit card reader integrations  
-- ⚡ **Performance Optimization** – Reducing dev time & improving system performance  
-- 🔃 **Real-Time Data Sync** – Using ASP.NET Core and Entity Framework  
+
 - 📫 How to reach me:
   - Social Media
      [LinkedIn](https://www.linkedin.com/in/tomwalker3/ "My LinkedIn") 
