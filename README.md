@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <hr>
-I am a senior software developer with 15+ years of helping companies deliver SaaS products to market.   My primary focus has been on mentoring developers to enhance their coding skills, particularly within the .NET stack. 
+Tom Walker, a senior software developer with 15+ years of helping companies deliver SaaS products to market.   My primary focus has been on mentoring developers to enhance their coding skills, particularly within the .NET stack. 
+
 ---
 
 - 🌱 I’m currently learning Angular and PHP.
@@ -18,6 +19,7 @@ I am a senior software developer with 15+ years of helping companies deliver Saa
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a huge Star Wars geek :rocket:
 
+## &#x1f4c8; GitHub Stats
 
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=twalker-codes&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twalker-codes)](https://github.com/twalker-codes/github-readme-stats)
